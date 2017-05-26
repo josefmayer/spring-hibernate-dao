@@ -12,9 +12,7 @@ JPA Entity <br />
 CRUD operations: <br />
 Interface <br />
 Implementation <br />
-org.hibernate.Session <br />
-org.hibernate.SessionFactory <br />
-org.springframework.stereotype.Repository <br />
+
 
 ##### Service
 Interface  <br />
