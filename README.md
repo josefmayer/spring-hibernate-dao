@@ -5,10 +5,10 @@ JPA, Hibernate, Spring, MySQL <br />
 
 
 ### Project Structure
-Model: <br />
+##### Model: <br />
 JPA Entity <br />
 
-DAO: <br />
+##### DAO
 CRUD operations: <br />
 Interface <br />
 Implementation <br />
@@ -16,13 +16,13 @@ org.hibernate.Session <br />
 org.hibernate.SessionFactory <br />
 org.springframework.stereotype.Repository <br />
 
-Service: <br />
+##### Service
 Interface  <br />
 Implementation  <br />
 Transactions  <br />
 
 
-Spring Annotations:  <br />
+##### Spring Annotations
 DAO:  <br />
 org.springframework.stereotype.Repository <br />
 
